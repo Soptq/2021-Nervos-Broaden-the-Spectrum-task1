@@ -1,6 +1,7 @@
 # 2021-Nervos-Broaden-the-Spectrum-task1
 
-Task0: Create A Godwoken Account On The EVM Layer 2 Testnet
+Task1: Create A Godwoken Account On The EVM Layer 2 Testnet
+
 Submitter: Soptq
 
 ## A screenshot of the accounts you created (account list) in ckb-cli
