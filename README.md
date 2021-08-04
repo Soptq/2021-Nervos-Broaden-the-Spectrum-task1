@@ -22,4 +22,4 @@ Due to my network problem, the transaction cannot be verified by the deposite sc
 https://explorer.nervos.org/aggron/address/ckt1qyqqefhyz5wah6h062xejx57jkee42rhm60su7ecpz
 https://explorer.nervos.org/aggron/transaction/0x4fb4b7f91138d428bcac77c5aee9bc6b78a72faac5c7d19485e1f225b40626a1
 ```
-~[Success Prove](successful-prove.png?raw=true "Success Prove")
+~[Success Prove](success-prove.png?raw=true "Success Prove")
